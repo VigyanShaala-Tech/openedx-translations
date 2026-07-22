@@ -135,7 +135,7 @@
   "exam.DownloadSoftwareProctoredExamInstructions.supportText": "If you have issues relating to proctoring, you can contact {providerName} technical support by emailing {supportEmail} or by calling {supportPhone}.",
   "exam.DownloadSoftwareProctoredExamInstructions.title": "Set up and start your proctored exam.",
   "exam.DefaultDownloadSoftwareProctoredExamInstructions.step3.title": "Step 3.",
-  "exam.DefaultDownloadSoftwareProctoredExamInstructions.step3.body": "For security and exam integrity reasons, we ask you to sign in to your edX account. Then we will direct you to the RPNow proctoring experience.",
+  "exam.DefaultDownloadSoftwareProctoredExamInstructions.step3.body": "For security and exam integrity reasons, we ask you to log in to your edX account. Then we will direct you to the RPNow proctoring experience.",
   "exam.FailedPrerequisitesProctoredExamInstructions.text1": "You did not satisfy the requirements for taking this exam with proctoring.",
   "exam.FailedPrerequisitesProctoredExamInstructions.text2": "You did not satisfy the following prerequisites:",
   "exam.startExamInstructions.skipExamText": "Due to unsatisfied prerequisites, you can only take this exam without proctoring.",

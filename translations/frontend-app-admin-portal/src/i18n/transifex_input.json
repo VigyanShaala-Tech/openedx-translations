@@ -1120,7 +1120,7 @@
   "adminPortal.settings.ssoConfigForm.newSsoIntegration": "New SSO integration",
   "adminPortal.settings.noSSOCard.imageAlt": "SSO image",
   "adminPortal.settings.noSSOCard.title": "You don't have any SSOs integrated yet.",
-  "adminPortal.settings.noSSOCard.description": "SSO enables learners who are signed in to their enterprise LMS or other system to easily register and enroll in courses on edX without needing to sign in again. edX for Business uses SAML 2.0 to implement SSO between an enterprise system and edX.org.",
+  "adminPortal.settings.noSSOCard.description": "SSO enables learners who are logged in to their enterprise LMS or other system to easily register and enroll in courses on edX without needing to log in again. edX for Business uses SAML 2.0 to implement SSO between an enterprise system and edX.org.",
   "adminPortal.settings.noSSOCard.newSSOButton": "New SSO integration",
   "adminPortal.settings.sso.connect": "Connect",
   "adminPortal.settings.sso.next": "Next",
